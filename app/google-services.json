@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "183828937350",
+    "firebase_url": "https://clientesf-48b5f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "clientesf-48b5f",
+    "storage_bucket": "clientesf-48b5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183828937350:android:a4a16fdb5bcf83cccd2f07",
+        "android_client_info": {
+          "package_name": "es.ilerna.vt3_uf1_verfuturo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIiDhdEU9SsY0aP3uLOHgKV_M3E6PjKaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

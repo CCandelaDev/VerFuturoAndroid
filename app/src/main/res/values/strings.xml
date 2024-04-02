@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VT3_UF1_VerFuturo</string>
+    <string name="VerApp_tv_nombre">Your Name:</string>
+    <string name="VerApp_et_nombre">Nombre</string>
+    <string name="VerApp_btn_next">Futuro</string>
+    <string name="VerApp_btn_Return">Volver</string>
+    <string name="VerApp_et_edad">Edad</string>
+    <string name="VerApp_btn_usuarios">Usuarios</string>
+    <string name="title_activity_usuarios_bbdd">ActivityUsuariosBBDD</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">prueba</string>
+    <string name="VerApp_btn_CLoseApp">Salir</string>
+    <string name="Ver_app_tvTittleBD">Usuarios Base de Datos</string>
+    <string name="VerApp_tvRegistrosBD">Nº registros BBDD:</string>
+    <string name="VerApp_tvEliminarReg">Eliminar ID:</string>
+    <string name="VerApp_btnBorrar">Borrar</string>
+</resources>
